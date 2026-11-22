@@ -1,5 +1,11 @@
 # Ember Duel
 
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/ahmadzeenok/makefun-best-card-game-20261122-1826/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/ahmadzeenok/makefun-best-card-game-20261122-1826/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+
+Built for the [make.fun best card game bounty](https://make.fun/bounty/best-card-game-20261122-1826) — build the best card game you can. Referral code: `fm46jydg`.
+
 A turn-based fantasy card battler for the make.fun "best card game" bounty.
 You duel the Ashen Knight on a green felt table: play cards from your hand,
 spend mana that grows one crystal every turn, and reduce the rival to 0 HP
